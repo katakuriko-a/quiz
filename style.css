@@ -5,7 +5,7 @@ body {
 }
 
 .container {
-  width: 400px;
+  width: 250px;
   margin: 8px auto;
   background: #fff;
   border-radius: 4px;
@@ -75,7 +75,7 @@ body {
 
 #result {
   position: absolute;
-  width: 300px;
+  width: 200px;
   background: #fff;
   padding: 30px;
   box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
